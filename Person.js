@@ -7,7 +7,8 @@ class Person {
 
   getFullName() {
     //@TODO Missing implementation
-      console.log("There need to be implementation of getFullName method");
+      console.log("There need to be implementation of getFullName method")
+    return 'Dog';
   }
 
 }
